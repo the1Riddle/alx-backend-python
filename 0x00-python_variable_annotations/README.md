@@ -35,20 +35,17 @@ Variable annotations are a powerful tool for documenting code and catching error
 
 - [Elvis Otieno](https://www.github.com/the1Riddle)
 
----
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE]() file for details
 
----
 
 ## Acknowledgements
 
 - [Alx](https://www.alx.com)
 - [Holberton School](https://www.holbertonschool.com)
 
----
 
 ## Feedback
 
