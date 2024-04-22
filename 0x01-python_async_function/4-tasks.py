@@ -4,7 +4,7 @@
     that can be called with the proper arguments.
 """
 import asyncio
-import random
+from tyuping import List
 task_wait_random = __import__('3-tasks').task_wait_random
 
 
